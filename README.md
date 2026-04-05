@@ -123,9 +123,9 @@ This leads to **extreme class imbalance**, making accurate detection challenging
 ## 📂 Project Structure
 
 ```
+├── README.md
 ├── classic_ml_lstm.ipynb
 ├── quantum_vqc_model.ipynb
-├── README.md
 ├── requirements.txt
 ```
 
